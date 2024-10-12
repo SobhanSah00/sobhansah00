@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, i am Sobhan Sahoo<br>🔭 I’m currently working on a part of a project <br>🌱 I’m currently learning Machine Learning , Socket and webrtc<br>💬 Ask me about Backend things<br>Connect with me : sobhansahoo2000@gmail.com
+Hi 👋, i am Sobhan Sahoo<br>🔭 I’m currently working on a part of a project <br>🌱 I’m currently learning Machine Learning , Socket and webrtc<br>💬 Ask me about Backend things<br>Connect with me : work.sobhansahoo@gmail.com
 
 
 ## 🌐 Socials:
