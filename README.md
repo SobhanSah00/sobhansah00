@@ -26,10 +26,3 @@ Hi 👋, i am Sobhan Sahoo<br>🔭 I’m currently working on a part of a projec
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=sobhansah00&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-
-
