@@ -38,24 +38,6 @@ I love working on WebSockets, distributed systems, and scalable backend framewor
 
 ---
 
-### 🔥 Highlighted Projects
-
-#### 🟢 **Real-Time Live Quiz System**
-- Teacher dashboards, student rooms  
-- Live timers, elimination mode  
-- WebSocket-based broadcast engine  
-
-#### 🔵 **LLM Aggregator (Perplexity-like)**
-- Multi-model querying  
-- Ranking & keyword-based evaluation  
-- Node.js + Prisma + PostgreSQL  
-
-#### 🟠 **SpeedTest App (Fast.com-like)**
-- Real-time bandwidth calculation  
-- Socket stream-based data tests  
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -68,8 +50,8 @@ I love working on WebSockets, distributed systems, and scalable backend framewor
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sobhan-sahoo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:sobhansahoo@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sobhansahoo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:work.sobhansahoo@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
